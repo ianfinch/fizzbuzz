@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.1",
+  "description": "Example of a fizzbuzz implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Ian Finch",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
